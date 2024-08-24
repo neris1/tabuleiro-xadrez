@@ -1,0 +1,26 @@
+
+body{ background-image: url(BG.jpg);
+}
+
+table{
+    margin: auto;
+}
+
+.centralizador{
+    margin: auto;
+    text-align: center;
+}
+.placa_preta{
+    background-image: url(placa_preta.jpg);
+    width: 100px;
+    height: 100px;
+}
+.placa_branca{
+    background-image: url(placa_branca.jpg);
+    width: 100px;
+    height: 100px;
+}
+.placa{
+    height: 100px;
+    width: 100px;
+}
